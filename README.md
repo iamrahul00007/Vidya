@@ -7,6 +7,7 @@ Welcome to Vidya!
 Vidya is a smart, friendly, and reliable chatbot built with cutting-edge Google Gemini AI models. Whether for learning, support, or conversation, Vidya is here to help! 🚀
 
 ✨ Features
+
 💬 Natural, human-like conversation
 
 🔎 Instant and accurate information retrieval
